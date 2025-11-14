@@ -13,5 +13,5 @@ Border radius: 2px
 ## Software:
 Lock screen: Hyprlock  
 App launcher: Rofi  
-Bar:  
+Bar: Waybar  
 Notifications: Mako  
